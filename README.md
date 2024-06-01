@@ -1,9 +1,9 @@
-# Разработка модели машинного обучения для прогнозирования рисков для здоровья беременных
+# Прогнозирование качества исполнения элементов фигурного катания
 
-* **Обобщенный блокнот-отчет о работе:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alekFil/maternal_health_risk/blob/main/notebooks/maternal-health-risk.ipynb)
+* **Обобщенный блокнот-отчет о работе:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alekFil/my_champion_app/blob/main/notebooks/my_champion_app.ipynb)
 
 * **Демонстрация приложения**: [My Champion App](https://my-champion-app.streamlit.app/)
- <img src="images\maternal-health-risk.streamlit.app.gif" alt="covers">
+ <img src="images\my-champion-app.streamlit.app.gif" alt="covers">
 
 
 ## Описание работы
