@@ -1,4 +1,6 @@
-data/*
+data/processed/*
+data/raw/*
+data/temp/*
 __pycache__/
 .venv/
 .vscode/
