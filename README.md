@@ -82,7 +82,7 @@
 ## Запуск проекта
 Чтобы развернуть проект необходимо:
 1. Клонировать репозиторий:
-`git clone https://github.com/alekFil/maternal_health_risk.git`
+`git clone https://github.com/alekFil/my_champion_app.git`
 2. Установить зависимости: `pip install -r requirements.txt`
 
 Запуск Streamlit приложения: 
@@ -93,7 +93,7 @@ streamlit run app.py
 ## Запуск ноутбуков
 Чтобы запустить ноутбуки необходимо установить иные зависимости:
 1. Клонировать репозиторий:
-`git clone https://github.com/alekFil/maternal_health_risk.git`
+`git clone https://github.com/alekFil/my_champion_app.git`
 2. Установить зависимости для ноутбуков: `pip install -r requirements-notebooks.txt`
 
 ## Контакты
